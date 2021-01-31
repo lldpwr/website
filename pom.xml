@@ -14,9 +14,6 @@
 	<packaging>war</packaging>
 	<name>website</name>
 	<description>A web app for an online book shop</description>
-	<properties>
-		<java.version>11</java.version>
-	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
